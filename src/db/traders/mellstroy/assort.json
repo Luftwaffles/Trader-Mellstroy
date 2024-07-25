@@ -1,0 +1,65 @@
+{
+    "items": [
+        {
+            "_id": "65cb82557e8e8aec5b088d6d",
+            "_tpl": "6489bed4a53c8c047c3dc361",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 9999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "65cb82557e8e8aec5b088d70",
+            "_tpl": "6489a233a236de328b12db56",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 9999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "65cb82557e8e8aec5b088d73",
+            "_tpl": "6489b73cebac5a4a1b73cab7",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 9999999,
+                "UnlimitedCount": true
+            }
+        }
+    ],
+    "barter_scheme": {
+        "65cb82557e8e8aec5b088d6d": [
+            [
+                {
+                    "count": 12401,
+                    "_tpl": "5449016a4bdc2d6f028b456f"
+                }
+            ]
+        ],
+        "65cb82557e8e8aec5b088d70": [
+            [
+                {
+                    "count": 37061,
+                    "_tpl": "5449016a4bdc2d6f028b456f"
+                }
+            ]
+        ],
+        "65cb82557e8e8aec5b088d73": [
+            [
+                {
+                    "count": 6638,
+                    "_tpl": "5449016a4bdc2d6f028b456f"
+                }
+            ]
+        ]
+    },
+    "loyal_level_items": {
+        "65cb82557e8e8aec5b088d6d": 1,
+        "65cb82557e8e8aec5b088d70": 1,
+        "65cb82557e8e8aec5b088d73": 1
+    }
+}

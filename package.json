@@ -1,0 +1,10 @@
+{
+  "name": "mellstroy-trader",
+  "version": "1.0.0",
+  "main": "src/mod.js",
+  "author": "Luftwaffle",
+  "license": "MIT",
+  "description": "A custom trader mod for SPTarkov that sells sealed weapon cases in exchange for physical bitcoin.",
+  "akiVersion": "3.8.3",
+  "modType": "postDBLoad"
+}
